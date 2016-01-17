@@ -1,5 +1,4 @@
 ##Book list
-
 HTML page generated with Markdown using Marker.js
 
 ##Credit

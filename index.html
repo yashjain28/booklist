@@ -10,7 +10,7 @@
 <head>
   <meta charset="utf-8"/>
   <title>Marked in the browser</title>
-  <script src="/node_modules/marked/lib/marked.js"></script>
+  <script src="books/node_modules/marked/lib/marked.js"></script>
 </head>
 <body>
   <div id="content"></div>
@@ -18,7 +18,7 @@
 
 var oReq = new XMLHttpRequest();
 oReq.addEventListener("load", markdown);
-oReq.open("GET", "/booklist.md");
+oReq.open("GET", "/books/booklist.md");
 oReq.send();
 
 function markdown (){
