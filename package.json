@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/rreinold/BookList_Markdownjs#readme",
   "dependencies": {
-    "angular": "^1.4.8",
     "marked": "^0.3.5"
   }
 }
