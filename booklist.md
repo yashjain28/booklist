@@ -1,6 +1,4 @@
-# Book List for 2015
-Robert Reinold
-
+# Book List for 2015 by Robert Reinold
 ## Did Read
 >- *Outliers* by Malcolm Gladwell
 >- *Creativity Inc.* by Edwin Catmull
