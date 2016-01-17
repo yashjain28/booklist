@@ -1,5 +1,4 @@
-See this project live at: [http://www.RobReinold.com/books](http://www.RobReinold.com/books)
-
+See this project live at: http://www.RobReinold.com/books
 ##Book list
 #####HTML page generated with Markdown using Marker.js
 
