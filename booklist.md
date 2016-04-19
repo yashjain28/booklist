@@ -6,14 +6,18 @@
 >-	**	You Can Negotiate Anything	** by Herb Cohen
 >-	**	Learn to Earn				** by Peter Lynch
 >-	**	How to Invest $50-$5,000	** by Nancy Dunnam
->-	**	Thinking Fast and Slow 		** by Daniel Kahneman
+>-	**	Thinking Fast and Slow 		** by Daniel Kahneman  
+
 2016 Q1
+
 >-	**	The Art of War 				** by Sun Tzu
 >-	**	Zero to One					** by Peter Thiel
 >-	**	The Toyota Way 				** by Jeffrey K. Liker
 >-	**	How To Win Friends And Influence People** by Dale Carnegie
->-	**	Good to Great				** by Jim Collins
+>-	**	Good to Great				** by Jim Collins  
+
 2016 Q2
+
 >-  **  Great by Choice				** by Jim Collins
 
 ## Future Reads
