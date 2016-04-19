@@ -6,14 +6,19 @@
 >-	**	You Can Negotiate Anything	** by Herb Cohen
 >-	**	Learn to Earn				** by Peter Lynch
 >-	**	How to Invest $50-$5,000	** by Nancy Dunnam
->-	**	The Art of War				** by Sun Tzu
->-	**	Zero to One					** by Peter Thiel
 >-	**	Thinking Fast and Slow 		** by Daniel Kahneman
+2016 Q1
+>-	**	The Art of War 				** by Sun Tzu
+>-	**	Zero to One					** by Peter Thiel
 >-	**	The Toyota Way 				** by Jeffrey K. Liker
 >-	**	How To Win Friends And Influence People** by Dale Carnegie
+>-	**	Good to Great				** by Jim Collins
+2016 Q2
+>-  **  Great by Choice				** by Jim Collins
 
 ## Future Reads
->-	**	Good to Great				** by Jim Collins
+>-	**	The Zero Marginal Cost Society ** by Jeremy Rifkin
+>-	**	Four Hour Workweek ** by Tim Ferriss
 >-	**	Linchpin					** by Seth Godin 
 >-	**	The Seven Habits of Highly Effective People ** by Stephen R. Covey
 >-	**	The Art of the Start 		**	by Guy Kawasaki
@@ -39,11 +44,9 @@
 >-	**	Drive ** by Daniel Pink
 >-	**	The Emperors Handbook ** by Marcus Aurelius
 >-	**	The Start-up Of You ** by Reid Hoffman (Founder of LinkedIn)
->- **	The Alchemist ** by  Paulo Coelho
->- **	Think & Grow Rich ** by Napoleon Hill
->- **	48 Laws of Power, 50th Law, 33 Strategies of War
->-	**	Four hour workweek ** by Tim Ferriss
+>- 	**	The Alchemist ** by  Paulo Coelho
+>- 	**	Think & Grow Rich ** by Napoleon Hill
+>- 	**	48 Laws of Power, 50th Law, 33 Strategies of War
 >-	**	Mastery by Robert Greene
 >-	**	Money:Mastering the Game ** by Tony Robbins
->-	**	The Zero Marginal Cost Society ** by Jeremy Rifkin
 >-	**	Enchanted Objects Design, Human Desire, and the Internet of Things ** by David Rose
