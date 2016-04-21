@@ -8,7 +8,7 @@
 >-	**	How to Invest $50-$5,000	** by Nancy Dunnam
 >-	**	Thinking Fast and Slow 		** by Daniel Kahneman  
 
-#### 2016 Q1
+#### 2016 Q1 (Goal of 3)
 
 >-	**	The Art of War 				** by Sun Tzu
 >-	**	Zero to One					** by Peter Thiel
@@ -16,7 +16,7 @@
 >-	**	How To Win Friends And Influence People** by Dale Carnegie
 >-	**	Good to Great				** by Jim Collins  
 
-#### 2016 Q2
+#### 2016 Q2 (Goal of 6)
 
 >-  **  Great by Choice				** by Jim Collins
 
