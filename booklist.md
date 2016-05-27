@@ -1,5 +1,8 @@
 # Book List for 2015 by Robert Reinold
-## Past Reads
+## Past Reads  
+  
+#### - 2015
+
 >-	**	Outliers					** by Malcolm Gladwell
 >-	**	Creativity Inc.				** by Edwin Catmull
 >-	**	The Lean Startup			** by Eric Ries
@@ -8,7 +11,7 @@
 >-	**	How to Invest $50-$5,000	** by Nancy Dunnam
 >-	**	Thinking Fast and Slow 		** by Daniel Kahneman  
 
-#### 2016 Q1 (Goal of 3)
+#### - 2016 Q1 (Goal of 3)
 
 >-	**	The Art of War 				** by Sun Tzu
 >-	**	Zero to One					** by Peter Thiel
@@ -16,11 +19,12 @@
 >-	**	How To Win Friends And Influence People** by Dale Carnegie
 >-	**	Good to Great				** by Jim Collins  
 
-#### 2016 Q2 (Goal of 6)
+#### - 2016 Q2 (Goal of 6)
 
 >-  **  Great by Choice				** by Jim Collins
 
 ## Future Reads
+>-	**	Rich Dad, Poor Dad ** by Robert Kiyosaki
 >-	**	The Zero Marginal Cost Society ** by Jeremy Rifkin
 >-	**	Four Hour Workweek ** by Tim Ferriss
 >-	**	Linchpin					** by Seth Godin 
@@ -50,7 +54,7 @@
 >-	**	The Start-up Of You ** by Reid Hoffman (Founder of LinkedIn)
 >- 	**	The Alchemist ** by  Paulo Coelho
 >- 	**	Think & Grow Rich ** by Napoleon Hill
->- 	**	48 Laws of Power, 50th Law, 33 Strategies of War
->-	**	Mastery by Robert Greene
+>- 	**	48 Laws of Power, 50th Law, 33 Strategies of War ** by Robert Greene
+>-	**	Mastery ** by Robert Greene
 >-	**	Money:Mastering the Game ** by Tony Robbins
 >-	**	Enchanted Objects Design, Human Desire, and the Internet of Things ** by David Rose
