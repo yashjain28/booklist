@@ -22,11 +22,11 @@
 #### - 2016 Q2 (Goal of 6)
 
 >-  **  Great by Choice				** by Jim Collins
+>-	**	Four Hour Workweek ** by Tim Ferriss
 
 ## Future Reads
 >-	**	Rich Dad, Poor Dad ** by Robert Kiyosaki
 >-	**	The Zero Marginal Cost Society ** by Jeremy Rifkin
->-	**	Four Hour Workweek ** by Tim Ferriss
 >-	**	Linchpin					** by Seth Godin 
 >-	**	The Seven Habits of Highly Effective People ** by Stephen R. Covey
 >-	**	The Art of the Start 		**	by Guy Kawasaki
