@@ -32,6 +32,7 @@
 >-	**	The Power of Habit 			**	by Charles Duhigg
 >-	**	The Challenger Sale ** by Matthew Dixon
 >-	**	The Zero Marginal Cost Society ** by Jeremy Rifkin
+>-  ** The Four Hour Body
 
 ## Future Reads
 >-	**	Rich Dad, Poor Dad ** by Robert Kiyosaki
