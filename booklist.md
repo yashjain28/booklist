@@ -33,6 +33,7 @@
 >-	**	The Challenger Sale ** by Matthew Dixon
 >-	**	The Zero Marginal Cost Society ** by Jeremy Rifkin
 >-  ** The Four Hour Body
+>- ** The Way of the Shepherd: 7 Ancient Secrets to Managing Productive People ** by Dr. Kevin Leman
 
 ## Future Reads
 >-	**	Rich Dad, Poor Dad ** by Robert Kiyosaki
