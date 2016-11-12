@@ -28,15 +28,17 @@
 
 #### - 2016 Q4
 
-## Future Reads
+## In Progress
+>-	**	The Power of Habit 			**	by Charles Duhigg
 >-	**	The Challenger Sale ** by Matthew Dixon
->-	**	Rich Dad, Poor Dad ** by Robert Kiyosaki
 >-	**	The Zero Marginal Cost Society ** by Jeremy Rifkin
+
+## Future Reads
+>-	**	Rich Dad, Poor Dad ** by Robert Kiyosaki
 >-	**	Linchpin					** by Seth Godin 
 >-	**	The Seven Habits of Highly Effective People ** by Stephen R. Covey
 >-	**	The Art of the Start 		**	by Guy Kawasaki
 >-	**	Delivering Happiness 		**	by Tony Hsieh
->-	**	The Power of Habit 			**	by Charles Duhigg
 >-	**	The Hard Thing About Hard Things	**	by Ben Horowitz
 >-	**	7 Habits of Highly Successful People** by Stephen Covey
 >-	**	Getting To Yes** by Roger Fisher
