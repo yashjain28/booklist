@@ -25,6 +25,8 @@
 >-	**	Four Hour Workweek ** by Tim Ferriss
 
 ## Future Reads
+>-	**	Getting To Yes** by Roger Fisher
+>-  **  The Challenger Sale: Taking Control of the Customer Conversation ** by Matthew Dixon
 >-	**	Rich Dad, Poor Dad ** by Robert Kiyosaki
 >-	**	The Zero Marginal Cost Society ** by Jeremy Rifkin
 >-	**	Linchpin					** by Seth Godin 
@@ -34,7 +36,6 @@
 >-	**	The Power of Habit 			**	by Charles Duhigg
 >-	**	The Hard Thing About Hard Things	**	by Ben Horowitz
 >-	**	7 Habits of Highly Successful People** by Stephen Covey
->-	**	Getting To Yes** by Roger Fisher
 >-	**	Multipliers** by Liz Wiseman
 >-	**	5 Step of Leadership** by John Maxwell
 >-	**	What Got You Here Won't Get You There** by Marshall Goldsmith
