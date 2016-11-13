@@ -11,7 +11,7 @@
 >-	**	How to Invest $50-$5,000	** by Nancy Dunnam
 >-	**	Thinking Fast and Slow 		** by Daniel Kahneman  
 
-#### - 2016 Q1 (Goal of 3)
+#### - 2016 Q1
 
 >-	**	The Art of War 				** by Sun Tzu
 >-	**	Zero to One					** by Peter Thiel
@@ -19,21 +19,30 @@
 >-	**	How To Win Friends And Influence People** by Dale Carnegie
 >-	**	Good to Great				** by Jim Collins  
 
-#### - 2016 Q2 (Goal of 6)
+#### - 2016 Q2
 
 >-  **  Great by Choice				** by Jim Collins
 >-	**	Four Hour Workweek ** by Tim Ferriss
+
+#### - 2016 Q3
+
+#### - 2016 Q4
+
+## In Progress
+>-	**	The Power of Habit 			**	by Charles Duhigg
+>-	**	The Challenger Sale ** by Matthew Dixon
+>-	**	The Zero Marginal Cost Society ** by Jeremy Rifkin
+>-  ** The Four Hour Body
+>- ** The Way of the Shepherd: 7 Ancient Secrets to Managing Productive People ** by Dr. Kevin Leman
 
 ## Future Reads
 >-	**	Getting To Yes** by Roger Fisher
 >-  **  The Challenger Sale: Taking Control of the Customer Conversation ** by Matthew Dixon
 >-	**	Rich Dad, Poor Dad ** by Robert Kiyosaki
->-	**	The Zero Marginal Cost Society ** by Jeremy Rifkin
 >-	**	Linchpin					** by Seth Godin 
 >-	**	The Seven Habits of Highly Effective People ** by Stephen R. Covey
 >-	**	The Art of the Start 		**	by Guy Kawasaki
 >-	**	Delivering Happiness 		**	by Tony Hsieh
->-	**	The Power of Habit 			**	by Charles Duhigg
 >-	**	The Hard Thing About Hard Things	**	by Ben Horowitz
 >-	**	7 Habits of Highly Successful People** by Stephen Covey
 >-	**	Multipliers** by Liz Wiseman
@@ -42,7 +51,6 @@
 >-	**	True North** by Bill George
 >-	**	Real Leaders Don't Do PowerPoint** by Christopher Witt
 >-	**	Start With Why** by Simon Sinek
->-	**	The Challenger Sale ** by Matthew Dixon
 >-	**	Sandler Success Principles** by David Mattson
 >-	**	Conscious Business ** by Fred Kofman
 >-	**	Mastering The Complex Sale** by Jeff Thul
