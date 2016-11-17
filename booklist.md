@@ -27,17 +27,16 @@
 #### - 2016 Q3
 
 #### - 2016 Q4
-
-## In Progress
->-	**	The Power of Habit 			**	by Charles Duhigg
->-	**	The Challenger Sale ** by Matthew Dixon
 >-	**	The Zero Marginal Cost Society ** by Jeremy Rifkin
->-  ** The Four Hour Body
+>-	**	The Challenger Sale ** by Matthew Dixon
 >- ** The Way of the Shepherd: 7 Ancient Secrets to Managing Productive People ** by Dr. Kevin Leman
 
+## In Progress
+>-  ** The Four Hour Body ** by Tim Ferriss
+
 ## Future Reads
+>-	**	The Power of Habit 			**	by Charles Duhigg
 >-	**	Getting To Yes** by Roger Fisher
->-  **  The Challenger Sale: Taking Control of the Customer Conversation ** by Matthew Dixon
 >-	**	Rich Dad, Poor Dad ** by Robert Kiyosaki
 >-	**	Linchpin					** by Seth Godin 
 >-	**	The Seven Habits of Highly Effective People ** by Stephen R. Covey
