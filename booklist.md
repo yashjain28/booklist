@@ -30,13 +30,20 @@
 >-	**	The Zero Marginal Cost Society ** by Jeremy Rifkin
 >-	**	The Challenger Sale ** by Matthew Dixon
 >- ** The Way of the Shepherd: 7 Ancient Secrets to Managing Productive People ** by Dr. Kevin Leman
+>- ** The Total Money Makeover ** by Dave Ramsey
+
+#### - 2017 Q1
+
 
 ## In Progress
 >-  ** The Four Hour Body ** by Tim Ferriss
+>-	** The Power of Habit 			**	by Charles Duhigg
+>-  ** The Secret ** by Rhonda Byrne 
+>-  ** What Every Body Is Saying ** by Joe Navarro
 
 ## Future Reads
->-	**	The Power of Habit 			**	by Charles Duhigg
 >-	**	Getting To Yes** by Roger Fisher
+>-  ** 48 Laws of Power ** by Robert Greene
 >-	**	Rich Dad, Poor Dad ** by Robert Kiyosaki
 >-	**	Linchpin					** by Seth Godin 
 >-	**	The Seven Habits of Highly Effective People ** by Stephen R. Covey
