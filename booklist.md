@@ -35,11 +35,14 @@
 #### - 2017 Q1
 >-	 The Power of Habit by Charles Duhigg
 
+#### - 2017 Q2
+>-  Sprint by Braden Kowitz
+
 ## In Progress
 >-  The Four Hour Body by Tim Ferriss
 >-  The Secret by Rhonda Byrne 
 >-  What Every Body Is Saying by Joe Navarro
->-	Linchpin by Seth Godin 
+>-  Linchpin by Seth Godin 
 
 ## Future Reads
 >-	Getting To Yes by Roger Fisher
