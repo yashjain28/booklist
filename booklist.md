@@ -40,9 +40,11 @@
 >-  Venture Deals by Jason Mendelson
 >-  The Secret by Rhonda Byrne 
 
+#### - 2017 Q3
+>-  What Every Body Is Saying by Joe Navarro
+
 ## In Progress
 >-  The Four Hour Body by Tim Ferriss
->-  What Every Body Is Saying by Joe Navarro
 >-  Linchpin by Seth Godin 
 
 ## Future Reads
