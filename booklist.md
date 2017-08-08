@@ -50,9 +50,9 @@
 ## Future Reads
 
 >-	Yes!: 50 Scientifically Proven Ways to Be Persuasive by Goldstein
->-      Let My People Go Surfing by Yvon Chouinard
+>-	Let My People Go Surfing by Yvon Chouinard
 >-	Getting To Yes by Roger Fisher
->-      48 Laws of Power by Robert Greene
+>-	48 Laws of Power by Robert Greene
 >-	Rich Dad, Poor Dad by Robert Kiyosaki
 >-	The Seven Habits of Highly Effective People by Stephen R. Covey
 >-	The Art of the Start 		by Guy Kawasaki
