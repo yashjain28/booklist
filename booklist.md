@@ -85,3 +85,4 @@
 >-	Mastery by Robert Greene
 >-	Money: Mastering the Game by Tony Robbins
 >-	Enchanted Objects Design, Human Desire, and the Internet of Things by David Rose
+>-  Tribes by Seth Godin
