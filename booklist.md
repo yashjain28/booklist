@@ -53,6 +53,7 @@
 
 ## Future Reads
 
+>-  Robot-Proof by Joseph E. Aoun
 >-	Yes!: 50 Scientifically Proven Ways to Be Persuasive by Goldstein
 >-	Let My People Go Surfing by Yvon Chouinard
 >-	Getting To Yes by Roger Fisher
