@@ -43,7 +43,11 @@
 #### - 2017 Q3
 >-  What Every Body Is Saying by Joe Navarro
 
+#### 2017 Q4
+>- TODO 3
+
 ## In Progress
+>-	Rich Dad, Poor Dad by Robert Kiyosaki
 >-  The Four Hour Body by Tim Ferriss
 >-  Linchpin by Seth Godin 
 
@@ -53,7 +57,6 @@
 >-	Let My People Go Surfing by Yvon Chouinard
 >-	Getting To Yes by Roger Fisher
 >-	48 Laws of Power by Robert Greene
->-	Rich Dad, Poor Dad by Robert Kiyosaki
 >-	The Seven Habits of Highly Effective People by Stephen R. Covey
 >-	The Art of the Start 		by Guy Kawasaki
 >-	Delivering Happiness 		by Tony Hsieh
