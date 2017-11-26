@@ -42,19 +42,25 @@
 
 #### - 2017 Q3
 >-  What Every Body Is Saying by Joe Navarro
+>-  The Art of Conflict Management by Michael Dues
+
+#### - 2017 Q4
+>-	The Millionaire Next Door by Thomas J. Stanley
 
 ## In Progress
->-  The Four Hour Body by Tim Ferriss
+>-  Curious: The Desire to Know and Why Your Future Depends On It by Ian Leslie
 >-  Linchpin by Seth Godin 
 
 ## Future Reads
 
->- Tools of Titans by Tim Ferriss
+>-	Fierce Conversations by S. Scott
+>-	Machine Platform Crowd by Andrew McAfee and Erik Brynjolfsson
+>-      Tools of Titans by Tim Ferriss
+>-      The Four Hour Body by Tim Ferriss
 >-	Yes!: 50 Scientifically Proven Ways to Be Persuasive by Goldstein
 >-	Let My People Go Surfing by Yvon Chouinard
 >-	Getting To Yes by Roger Fisher
 >-	48 Laws of Power by Robert Greene
->-	Rich Dad, Poor Dad by Robert Kiyosaki
 >-	The Seven Habits of Highly Effective People by Stephen R. Covey
 >-	The Art of the Start 		by Guy Kawasaki
 >-	Delivering Happiness 		by Tony Hsieh
