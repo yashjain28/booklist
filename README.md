@@ -1,4 +1,4 @@
-# Book List for 2015 by Robert Reinold
+# Book List by Robert Reinold
 ## Past Reads  
   
 #### - 2015
