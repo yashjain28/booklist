@@ -39,7 +39,7 @@ function startup(){
 
 function getRandomMateralizeColor(){
 	var values = {
-		color:["red","pink","purple","deep-purple","indigo","purple","blue","light-blue","cyan","teal","green","light-green","lime","yellow","amber","orange","deep-orange","brown","grey","blue-grey"],
+		color:["red","purple","deep-purple","indigo","purple","blue","light-blue","cyan","teal","green","lime","orange","deep-orange"],
 		brightness:["lighten","darken"],
 		intensity:["","-1","-2","-3","-4"]
 	}
