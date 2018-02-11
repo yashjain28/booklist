@@ -30,7 +30,9 @@ function startup(){
 
 		if(i % 3 == 2 || i == books.length - 1){
 			var row = ROW_TEMPLATE.replace(/{{cards}}/,rowOfBooks.join(''))
+			rowOfBooks = []
 			output.push(row)
+
 		}
 	}
 
@@ -39,7 +41,7 @@ function startup(){
 
 function getRandomMateralizeColor(){
 	var values = {
-		color:["red","purple","deep-purple","indigo","purple","blue","light-blue","cyan","teal","green","lime","orange","deep-orange"],
+		color:["red","purple","deep-purple","indigo","purple","blue","light-blue","cyan","teal","green","orange","deep-orange"],
 		brightness:["lighten","darken"],
 		intensity:["","-1","-2","-3","-4"]
 	}
