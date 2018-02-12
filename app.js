@@ -3,8 +3,8 @@ var CARD_TEMPLATE =
         '<div class="col s{{width}} m{{width}}">\
           <div class="card {{color}}">\
             <div class="card-content white-text">\
-              <span class="card-title">{{title}} by {{authors}}</span>\
-              <p>{{description}}</p>\
+              <span class="card-title">{{title}}</span>\
+              <p>by {{authors}}</p>\
             </div>\
             <div class="card-action">\
               <a class="white-text" href="#">Notes</a>\
