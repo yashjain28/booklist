@@ -1,0 +1,95 @@
+{
+	"past": [{
+		"title": "Outliers",
+		"authors": ["Malcolm Gladwell"]
+	}, {
+		"title": "Creativity Inc.",
+		"authors": ["Edwin Catmull"]
+	}, {
+		"title": "The Lean Startup",
+		"authors": ["Eric Ries"]
+	}, {
+		"title": "You Can Negotiate Anything",
+		"authors": ["Herb Cohen"]
+	}, {
+		"title": "Learn to Earn",
+		"authors": ["Peter Lynch"]
+	}, {
+		"title": "How to Invest $50-$5000",
+		"authors": ["Nancy Dunnan"]
+	}, {
+		"title": "Thinking Fast and Slow",
+		"authors": ["Daniel Kahneman"]
+	}, {
+		"title": "The Art of War",
+		"authors": ["Sun Tzu"]
+	}, {
+		"title": "Zero to One",
+		"authors": ["Peter Thiel"]
+	}, {
+		"title": "The Toyota Way",
+		"authors": ["Jeffrey K. Liker"]
+	}, {
+		"title": "How To Win Friends And Influence People",
+		"authors": ["Dale Carnegie"]
+	}, {
+		"title": "Good to Great",
+		"authors": ["Jim Collins"]
+	}, {
+		"title": "Great by Choice",
+		"authors": ["Jim Collins"]
+	}, {
+		"title": "Four Hour Workweek",
+		"authors": ["Tim Ferriss"]
+	}, {
+		"title": "The Zero Marginal Cost Society",
+		"authors": ["Jeremy Rifkin"]
+	}, {
+		"title": "The Challenger Sale",
+		"authors": ["Matthew Dixon"]
+	}, {
+		"title": "The Way of the Shepherd: 7 Ancient Secrets to Managing Productive People",
+		"authors": ["Dr. Kevin Leman"]
+	}, {
+		"title": "The Total Money Makeover",
+		"authors": ["Dave Ramsey"]
+	}, {
+		"title": "The Power of Habit",
+		"authors": ["Charles Duhigg"]
+	}, {
+		"title": "Sprint",
+		"authors": ["Braden Kowitz"]
+	}, {
+		"title": "Venture Deals",
+		"authors": ["Jason Mendelson"]
+	}, {
+		"title": "The Secret",
+		"authors": ["Rhonda Byrne"]
+	}, {
+		"title": "What Every Body Is Saying",
+		"authors": ["Joe Navarro"]
+	}, {
+		"title": "The Art of Conflict Management",
+		"authors": ["Michael Dues"]
+	}, {
+		"title": "The Millionaire Next Door",
+		"authors": ["Thomas J. Stanley"]
+	}, {
+		"title": "Curious: The Desire to Know and Why Your Future Depends On It",
+		"authors": ["Ian Leslie"]
+	}, {
+		"title": "Linchpin",
+		"authors": ["Seth Godin"]
+	}, {
+		"title": "The Alchemist",
+		"authors": ["Paulo Coelho"]
+	}, {
+		"title": "Ready Player One",
+		"authors": ["Ernest Cline"]
+	},
+	{
+		"title": "Anthem",
+		"authors": ["Ayn Rand"],
+		"notes":["You are damned, and we wish to share your damnation"]
+	}]
+}
