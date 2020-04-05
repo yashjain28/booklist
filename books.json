@@ -20,6 +20,9 @@
 	}, {
 		"title": "The Alchemist",
 		"authors": ["Paulo Coelho"]
+	}, {
+		"title":"The Autobiography Of A Yogi",
+		"authors": ["Paramhansa Yogananda"]
 	}],
 	"future": [{
 		"title": "Outliers",
@@ -87,8 +90,7 @@
 	}, {
 		"title": "Ready Player One",
 		"authors": ["Ernest Cline"]
-	},
-	{
+	}, {
 		"title": "Anthem",
 		"authors": ["Ayn Rand"],
 		"notes":["You are damned, and we wish to share your damnation"]

@@ -22,6 +22,7 @@ function startup() {
   fetchJSON("books.json", renderBooks);
 
   function renderBooks(books) {
+	  console.log(books);
     let booksDiv = document.getElementById("books");
     let futureBooksDiv = document.getElementById("futurebooks");
 
