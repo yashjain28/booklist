@@ -1,98 +1,283 @@
 {
-	"past": [{
-		"title": "The Lean Startup",
-		"authors": ["Eric Ries"]
-	}, {
-		"title": "Zero to One",
-		"authors": ["Peter Thiel"]
-	}, {
-		"title": "How To Win Friends And Influence People",
-		"authors": ["Dale Carnegie"]
-	}, {
-		"title": "The Zero Marginal Cost Society",
-		"authors": ["Jeremy Rifkin"]
-	}, {
-		"title": "The Secret",
-		"authors": ["Rhonda Byrne"]
-	}, {
-		"title": "What Every Body Is Saying",
-		"authors": ["Joe Navarro"]
-	}, {
-		"title": "The Alchemist",
-		"authors": ["Paulo Coelho"]
-	}, {
-		"title":"The Autobiography Of A Yogi",
-		"authors": ["Paramhansa Yogananda"]
-	}],
-	"future": [{
-		"title": "Outliers",
-		"authors": ["Malcolm Gladwell"]
-	}, {
-		"title": "Creativity Inc.",
-		"authors": ["Edwin Catmull"]
-	}, {
-		"title": "You Can Negotiate Anything",
-		"authors": ["Herb Cohen"]
-	}, {
-		"title": "Learn to Earn",
-		"authors": ["Peter Lynch"]
-	}, {
-		"title": "How to Invest $50-$5000",
-		"authors": ["Nancy Dunnan"]
-	}, {
-		"title": "Thinking Fast and Slow",
-		"authors": ["Daniel Kahneman"]
-	}, {
-		"title": "The Art of War",
-		"authors": ["Sun Tzu"]
-	}, {
-		"title": "The Toyota Way",
-		"authors": ["Jeffrey K. Liker"]
-	}, {
-		"title": "Good to Great",
-		"authors": ["Jim Collins"]
-	}, {
-		"title": "Great by Choice",
-		"authors": ["Jim Collins"]
-	}, {
-		"title": "Four Hour Workweek",
-		"authors": ["Tim Ferriss"]
-	}, {
-		"title": "The Challenger Sale",
-		"authors": ["Matthew Dixon"]
-	}, {
-		"title": "The Way of the Shepherd: 7 Ancient Secrets to Managing Productive People",
-		"authors": ["Dr. Kevin Leman"]
-	}, {
-		"title": "The Total Money Makeover",
-		"authors": ["Dave Ramsey"]
-	}, {
-		"title": "The Power of Habit",
-		"authors": ["Charles Duhigg"]
-	}, {
-		"title": "Sprint",
-		"authors": ["Braden Kowitz"]
-	}, {
-		"title": "Venture Deals",
-		"authors": ["Jason Mendelson"]
-	}, {
-		"title": "The Art of Conflict Management",
-		"authors": ["Michael Dues"]
-	}, {
-		"title": "The Millionaire Next Door",
-		"authors": ["Thomas J. Stanley"]
-	}, {
-		"title": "Curious: The Desire to Know and Why Your Future Depends On It",
-		"authors": ["Ian Leslie"]
-	}, {
-		"title": "Linchpin",
-		"authors": ["Seth Godin"]
-	}, {
-		"title": "Ready Player One",
-		"authors": ["Ernest Cline"]
-	}, {
-		"title": "Anthem",
-		"authors": ["Ayn Rand"],
-		"notes":["You are damned, and we wish to share your damnation"]
-	}]
+  "past": [
+    {
+      "title": "Exactly What To Say",
+      "authors": ["Phil M. Jones"]
+    },
+    {
+      "title": "Feel Free To Prosper",
+      "authors": ["Marilyn Jenett"]
+    },
+    {
+      "title": "How To Win Friends And Influence People",
+      "authors": ["Dale Carnegie"]
+    },
+    {
+      "title": "Predictably Irrational",
+      "authors": ["Dan Ariely"]
+    },
+    {
+      "title": "Rich Dad Poor Dad",
+      "authors": ["Robert T. Kiyosaki"]
+    },
+    {
+      "title": "The Alchemist",
+      "authors": ["Paulo Coelho"]
+    },
+    {
+      "title": "The Autobiography Of A Yogi",
+      "authors": ["Paramhansa Yogananda"]
+    },
+    {
+      "title": "The Go-Giver",
+      "authors": ["Bob Burg", "John David Mann"]
+    },
+    {
+      "title": "The Lean Startup",
+      "authors": ["Eric Ries"]
+    },
+    {
+      "title": "The One Thing",
+      "authors": ["Gary Keller", "Jay Papasan"]
+    },
+    {
+      "title": "The Organized Mind",
+      "authors": ["Daniel J. Levitin"]
+    },
+    {
+      "title": "The Science OF Getting Rich",
+      "authors": ["Wallace D. Wattles"]
+    },
+    {
+      "title": "The Secret",
+      "authors": ["Rhonda Byrne"]
+    },
+    {
+      "title": "The Surrender Experiment",
+      "authors": ["Michael A. Singer"]
+    },
+    {
+      "title": "The Untethered Soul",
+      "authors": ["Michael A. Singer"]
+    },
+    {
+      "title": "The Untethered Soul",
+      "authors": ["Michael A. Singer"]
+    },
+    {
+      "title": "The Zero Marginal Cost Society",
+      "authors": ["Jeremy Rifkin"]
+    },
+    {
+      "title": "Think And Grow Rich",
+      "authors": ["Napoleon Hill"]
+    },
+    {
+      "title": "Tribes",
+      "authors": ["Seth Godin"]
+    },
+    {
+      "title": "What Every Body Is Saying",
+      "authors": ["Joe Navarro"]
+    },
+    {
+      "title": "Zero to One",
+      "authors": ["Peter Thiel"]
+    }
+  ],
+  "future": [
+    {
+      "title": "A New Earth",
+      "authors": ["Eckhart Tolle"]
+    },
+    {
+      "title": "Anthem",
+      "authors": ["Ayn Rand"],
+      "notes": ["You are damned, and we wish to share your damnation"]
+    },
+    {
+      "title": "Brand Famous",
+      "authors": ["Lindzi Boyd"]
+    },
+    {
+      "title": "Creativity Inc.",
+      "authors": ["Edwin Catmull"]
+    },
+    {
+      "title": "Curious: The Desire to Know and Why Your Future Depends On It",
+      "authors": ["Ian Leslie"]
+    },
+    {
+      "title": "Four Hour Workweek",
+      "authors": ["Tim Ferriss"]
+    },
+    {
+      "title": "Freakonomics",
+      "authors": ["Steven D. Levitt", "Stephen J. Dubner"]
+    },
+    {
+      "title": "Good to Great",
+      "authors": ["Jim Collins"]
+    },
+    {
+      "title": "Great by Choice",
+      "authors": ["Jim Collins"]
+    },
+    {
+      "title": "How to Invest $50-$5000",
+      "authors": ["Nancy Dunnan"]
+    },
+    {
+      "title": "Influence",
+      "authors": ["Robert B. Cialdini"]
+    },
+    {
+      "title": "Learn to Earn",
+      "authors": ["Peter Lynch"]
+    },
+    {
+      "title": "Letting Go",
+      "authors": ["David R. Hawkins"]
+    },
+    {
+      "title": "Linchpin",
+      "authors": ["Seth Godin"]
+    },
+    {
+      "title": "Mind Gym",
+      "authors": ["Sebastian Bailey", "Octavius Black"]
+    },
+    {
+      "title": "Outliers",
+      "authors": ["Malcolm Gladwell"]
+    },
+    {
+      "title": "Principles",
+      "authors": ["Ray Dalio"]
+    },
+    {
+      "title": "Psycho Cybernetics",
+      "authors": ["Maxwell Maltz"]
+    },
+    {
+      "title": "Quantum Relevation",
+      "authors": ["Paul Levy"]
+    },
+    {
+      "title": "Ready Player One",
+      "authors": ["Ernest Cline"]
+    },
+    {
+      "title": "Reinventing Organizations",
+      "authors": ["Frédéric Laloux"]
+    },
+    {
+      "title": "Secrets Of The Millionaire Mind",
+      "authors": ["T. Harv Eker"]
+    },
+    {
+      "title": "Sprint",
+      "authors": ["Braden Kowitz"]
+    },
+    {
+      "title": "Stealing Fire",
+      "authors": ["Steven Kotler", "Jamie Wheal"]
+    },
+    {
+      "title": "Steve Jobs",
+      "authors": ["Walter Isaacson"]
+    },
+    {
+      "title": "The 4 Hour Work Week",
+      "authors": ["Timothy Ferris"]
+    },
+    {
+      "title": "The 5 Second Rule",
+      "authors": ["Mel Robbins"]
+    },
+    {
+      "title": "The 80/20 Principle",
+      "authors": ["Richard Koch"]
+    },
+    {
+      "title": "The Art of Conflict Management",
+      "authors": ["Michael Dues"]
+    },
+    {
+      "title": "The Art of War",
+      "authors": ["Sun Tzu"]
+    },
+    {
+      "title": "The Challenger Sale",
+      "authors": ["Matthew Dixon"]
+    },
+    {
+      "title": "The Happiness Advantage",
+      "authors": ["Shawn Achor"]
+    },
+    {
+      "title": "The Magic Of Believing",
+      "authors": ["Claude M. Bristol"]
+    },
+    {
+      "title": "The Mastery Of Love",
+      "authors": ["Don Miguel Ruiz"]
+    },
+    {
+      "title": "The Millionaire Next Door",
+      "authors": ["Thomas J. Stanley"]
+    },
+    {
+      "title": "The Power Of Now",
+      "authors": ["Eckhart Tolle"]
+    },
+    {
+      "title": "The Power Of The Subconscious Mind",
+      "authors": ["Joseph Murphy"]
+    },
+    {
+      "title": "The Power of Habit",
+      "authors": ["Charles Duhigg"]
+    },
+    {
+      "title": "The Total Money Makeover",
+      "authors": ["Dave Ramsey"]
+    },
+    {
+      "title": "The Toyota Way",
+      "authors": ["Jeffrey K. Liker"]
+    },
+    {
+      "title": "The Way Of Mastery",
+      "authors": ["Shanti Christo"]
+    },
+    {
+      "title": "The Way Of The Superior Man",
+      "authors": ["David Deida"]
+    },
+    {
+      "title": "The Way of the Shepherd: 7 Ancient Secrets to Managing Productive People",
+      "authors": ["Dr. Kevin Leman"]
+    },
+    {
+      "title": "Thinking Fast and Slow",
+      "authors": ["Daniel Kahneman"]
+    },
+    {
+      "title": "Venture Deals",
+      "authors": ["Jason Mendelson"]
+    },
+    {
+      "title": "When",
+      "authors": ["Daniel H. Pink"]
+    },
+    {
+      "title": "You Are A Badass",
+      "authors": ["Jen Sincero"]
+    },
+    {
+      "title": "You Can Negotiate Anything",
+      "authors": ["Herb Cohen"]
+    }
+  ]
 }
