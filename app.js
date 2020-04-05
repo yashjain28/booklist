@@ -29,7 +29,7 @@ function startup() {
 	let futureReadCards = generateCards(books.future);
 	
 	booksDiv.innerHTML = pastReadCards.join("");
-    //futureBooksDiv.innerHTML = futureReadCards.join("");
+    futureBooksDiv.innerHTML = futureReadCards.join("");
   }
 
   function generateCards(reads) {
